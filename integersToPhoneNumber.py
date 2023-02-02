@@ -24,7 +24,7 @@ def create_phone_number(n):
         if n.startswith('+'):
             n = f"{n[0] + n[1] + n[2]} ({n[3] + n[4] + n[5]}) {n[6]+ n[7]+ n[8]}-{n[9]+ n[10]+ n[11]+ n[12]}"
             return n
-    elif len(n) < 10 or len(n) > 10:
+    elif len(n) < 10 or len(n) > 13:
         print("Enter 10 or 13 numbers Only")
     else:
         print("Invalid")
