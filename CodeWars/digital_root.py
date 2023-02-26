@@ -13,8 +13,7 @@ def digital_root(n):
         return digital_root(sum_)
     elif len(str(sum_)) == 1:
         return sum_
-
-
-print(digital_root(10))
+    
+print(digital_root(999))
 
 
