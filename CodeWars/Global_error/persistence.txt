@@ -1,0 +1,3448 @@
+integer: 11
+value: 1, count: 1
+integer: 12
+value: 2, count: 2
+integer: 13
+value: 3, count: 3
+integer: 14
+value: 4, count: 4
+integer: 15
+value: 5, count: 5
+integer: 16
+value: 6, count: 6
+integer: 17
+value: 7, count: 7
+integer: 18
+value: 8, count: 8
+integer: 19
+value: 9, count: 9
+integer: 20
+value: 0, count: 10
+integer: 21
+value: 2, count: 11
+integer: 22
+value: 4, count: 12
+integer: 23
+value: 6, count: 13
+integer: 24
+value: 8, count: 14
+integer: 25
+integer: 10
+value: 0, count: 16
+integer: 26
+integer: 12
+value: 2, count: 18
+integer: 27
+integer: 14
+value: 4, count: 20
+integer: 28
+integer: 16
+value: 6, count: 22
+integer: 29
+integer: 18
+value: 8, count: 24
+integer: 30
+value: 0, count: 25
+integer: 31
+value: 3, count: 26
+integer: 32
+value: 6, count: 27
+integer: 33
+value: 9, count: 28
+integer: 34
+integer: 12
+value: 2, count: 30
+integer: 35
+integer: 15
+value: 5, count: 32
+integer: 36
+integer: 18
+value: 8, count: 34
+integer: 37
+integer: 21
+value: 2, count: 36
+integer: 38
+integer: 24
+value: 8, count: 38
+integer: 39
+integer: 27
+integer: 14
+value: 4, count: 41
+integer: 40
+value: 0, count: 42
+integer: 41
+value: 4, count: 43
+integer: 42
+value: 8, count: 44
+integer: 43
+integer: 12
+value: 2, count: 46
+integer: 44
+integer: 16
+value: 6, count: 48
+integer: 45
+integer: 20
+value: 0, count: 50
+integer: 46
+integer: 24
+value: 8, count: 52
+integer: 47
+integer: 28
+integer: 16
+value: 6, count: 55
+integer: 48
+integer: 32
+value: 6, count: 57
+integer: 49
+integer: 36
+integer: 18
+value: 8, count: 60
+integer: 50
+value: 0, count: 61
+integer: 51
+value: 5, count: 62
+integer: 52
+integer: 10
+value: 0, count: 64
+integer: 53
+integer: 15
+value: 5, count: 66
+integer: 54
+integer: 20
+value: 0, count: 68
+integer: 55
+integer: 25
+integer: 10
+value: 0, count: 71
+integer: 56
+integer: 30
+value: 0, count: 73
+integer: 57
+integer: 35
+integer: 15
+value: 5, count: 76
+integer: 58
+integer: 40
+value: 0, count: 78
+integer: 59
+integer: 45
+integer: 20
+value: 0, count: 81
+integer: 60
+value: 0, count: 82
+integer: 61
+value: 6, count: 83
+integer: 62
+integer: 12
+value: 2, count: 85
+integer: 63
+integer: 18
+value: 8, count: 87
+integer: 64
+integer: 24
+value: 8, count: 89
+integer: 65
+integer: 30
+value: 0, count: 91
+integer: 66
+integer: 36
+integer: 18
+value: 8, count: 94
+integer: 67
+integer: 42
+value: 8, count: 96
+integer: 68
+integer: 48
+integer: 32
+value: 6, count: 99
+integer: 69
+integer: 54
+integer: 20
+value: 0, count: 102
+integer: 70
+value: 0, count: 103
+integer: 71
+value: 7, count: 104
+integer: 72
+integer: 14
+value: 4, count: 106
+integer: 73
+integer: 21
+value: 2, count: 108
+integer: 74
+integer: 28
+integer: 16
+value: 6, count: 111
+integer: 75
+integer: 35
+integer: 15
+value: 5, count: 114
+integer: 76
+integer: 42
+value: 8, count: 116
+integer: 77
+integer: 49
+integer: 36
+integer: 18
+value: 8, count: 120
+integer: 78
+integer: 56
+integer: 30
+value: 0, count: 123
+integer: 79
+integer: 63
+integer: 18
+value: 8, count: 126
+integer: 80
+value: 0, count: 127
+integer: 81
+value: 8, count: 128
+integer: 82
+integer: 16
+value: 6, count: 130
+integer: 83
+integer: 24
+value: 8, count: 132
+integer: 84
+integer: 32
+value: 6, count: 134
+integer: 85
+integer: 40
+value: 0, count: 136
+integer: 86
+integer: 48
+integer: 32
+value: 6, count: 139
+integer: 87
+integer: 56
+integer: 30
+value: 0, count: 142
+integer: 88
+integer: 64
+integer: 24
+value: 8, count: 145
+integer: 89
+integer: 72
+integer: 14
+value: 4, count: 148
+integer: 90
+value: 0, count: 149
+integer: 91
+value: 9, count: 150
+integer: 92
+integer: 18
+value: 8, count: 152
+integer: 93
+integer: 27
+integer: 14
+value: 4, count: 155
+integer: 94
+integer: 36
+integer: 18
+value: 8, count: 158
+integer: 95
+integer: 45
+integer: 20
+value: 0, count: 161
+integer: 96
+integer: 54
+integer: 20
+value: 0, count: 164
+integer: 97
+integer: 63
+integer: 18
+value: 8, count: 167
+integer: 98
+integer: 72
+integer: 14
+value: 4, count: 170
+integer: 99
+integer: 81
+value: 8, count: 172
+integer: 100
+value: 0, count: 173
+integer: 101
+value: 0, count: 174
+integer: 102
+value: 0, count: 175
+integer: 103
+value: 0, count: 176
+integer: 104
+value: 0, count: 177
+integer: 105
+value: 0, count: 178
+integer: 106
+value: 0, count: 179
+integer: 107
+value: 0, count: 180
+integer: 108
+value: 0, count: 181
+integer: 109
+value: 0, count: 182
+integer: 110
+value: 0, count: 183
+integer: 111
+value: 1, count: 184
+integer: 112
+value: 2, count: 185
+integer: 113
+value: 3, count: 186
+integer: 114
+value: 4, count: 187
+integer: 115
+value: 5, count: 188
+integer: 116
+value: 6, count: 189
+integer: 117
+value: 7, count: 190
+integer: 118
+value: 8, count: 191
+integer: 119
+value: 9, count: 192
+integer: 120
+value: 0, count: 193
+integer: 121
+value: 2, count: 194
+integer: 122
+value: 4, count: 195
+integer: 123
+value: 6, count: 196
+integer: 124
+value: 8, count: 197
+integer: 125
+integer: 10
+value: 0, count: 199
+integer: 126
+integer: 12
+value: 2, count: 201
+integer: 127
+integer: 14
+value: 4, count: 203
+integer: 128
+integer: 16
+value: 6, count: 205
+integer: 129
+integer: 18
+value: 8, count: 207
+integer: 130
+value: 0, count: 208
+integer: 131
+value: 3, count: 209
+integer: 132
+value: 6, count: 210
+integer: 133
+value: 9, count: 211
+integer: 134
+integer: 12
+value: 2, count: 213
+integer: 135
+integer: 15
+value: 5, count: 215
+integer: 136
+integer: 18
+value: 8, count: 217
+integer: 137
+integer: 21
+value: 2, count: 219
+integer: 138
+integer: 24
+value: 8, count: 221
+integer: 139
+integer: 27
+integer: 14
+value: 4, count: 224
+integer: 140
+value: 0, count: 225
+integer: 141
+value: 4, count: 226
+integer: 142
+value: 8, count: 227
+integer: 143
+integer: 12
+value: 2, count: 229
+integer: 144
+integer: 16
+value: 6, count: 231
+integer: 145
+integer: 20
+value: 0, count: 233
+integer: 146
+integer: 24
+value: 8, count: 235
+integer: 147
+integer: 28
+integer: 16
+value: 6, count: 238
+integer: 148
+integer: 32
+value: 6, count: 240
+integer: 149
+integer: 36
+integer: 18
+value: 8, count: 243
+integer: 150
+value: 0, count: 244
+integer: 151
+value: 5, count: 245
+integer: 152
+integer: 10
+value: 0, count: 247
+integer: 153
+integer: 15
+value: 5, count: 249
+integer: 154
+integer: 20
+value: 0, count: 251
+integer: 155
+integer: 25
+integer: 10
+value: 0, count: 254
+integer: 156
+integer: 30
+value: 0, count: 256
+integer: 157
+integer: 35
+integer: 15
+value: 5, count: 259
+integer: 158
+integer: 40
+value: 0, count: 261
+integer: 159
+integer: 45
+integer: 20
+value: 0, count: 264
+integer: 160
+value: 0, count: 265
+integer: 161
+value: 6, count: 266
+integer: 162
+integer: 12
+value: 2, count: 268
+integer: 163
+integer: 18
+value: 8, count: 270
+integer: 164
+integer: 24
+value: 8, count: 272
+integer: 165
+integer: 30
+value: 0, count: 274
+integer: 166
+integer: 36
+integer: 18
+value: 8, count: 277
+integer: 167
+integer: 42
+value: 8, count: 279
+integer: 168
+integer: 48
+integer: 32
+value: 6, count: 282
+integer: 169
+integer: 54
+integer: 20
+value: 0, count: 285
+integer: 170
+value: 0, count: 286
+integer: 171
+value: 7, count: 287
+integer: 172
+integer: 14
+value: 4, count: 289
+integer: 173
+integer: 21
+value: 2, count: 291
+integer: 174
+integer: 28
+integer: 16
+value: 6, count: 294
+integer: 175
+integer: 35
+integer: 15
+value: 5, count: 297
+integer: 176
+integer: 42
+value: 8, count: 299
+integer: 177
+integer: 49
+integer: 36
+integer: 18
+value: 8, count: 303
+integer: 178
+integer: 56
+integer: 30
+value: 0, count: 306
+integer: 179
+integer: 63
+integer: 18
+value: 8, count: 309
+integer: 180
+value: 0, count: 310
+integer: 181
+value: 8, count: 311
+integer: 182
+integer: 16
+value: 6, count: 313
+integer: 183
+integer: 24
+value: 8, count: 315
+integer: 184
+integer: 32
+value: 6, count: 317
+integer: 185
+integer: 40
+value: 0, count: 319
+integer: 186
+integer: 48
+integer: 32
+value: 6, count: 322
+integer: 187
+integer: 56
+integer: 30
+value: 0, count: 325
+integer: 188
+integer: 64
+integer: 24
+value: 8, count: 328
+integer: 189
+integer: 72
+integer: 14
+value: 4, count: 331
+integer: 190
+value: 0, count: 332
+integer: 191
+value: 9, count: 333
+integer: 192
+integer: 18
+value: 8, count: 335
+integer: 193
+integer: 27
+integer: 14
+value: 4, count: 338
+integer: 194
+integer: 36
+integer: 18
+value: 8, count: 341
+integer: 195
+integer: 45
+integer: 20
+value: 0, count: 344
+integer: 196
+integer: 54
+integer: 20
+value: 0, count: 347
+integer: 197
+integer: 63
+integer: 18
+value: 8, count: 350
+integer: 198
+integer: 72
+integer: 14
+value: 4, count: 353
+integer: 199
+integer: 81
+value: 8, count: 355
+integer: 200
+value: 0, count: 356
+integer: 201
+value: 0, count: 357
+integer: 202
+value: 0, count: 358
+integer: 203
+value: 0, count: 359
+integer: 204
+value: 0, count: 360
+integer: 205
+value: 0, count: 361
+integer: 206
+value: 0, count: 362
+integer: 207
+value: 0, count: 363
+integer: 208
+value: 0, count: 364
+integer: 209
+value: 0, count: 365
+integer: 210
+value: 0, count: 366
+integer: 211
+value: 2, count: 367
+integer: 212
+value: 4, count: 368
+integer: 213
+value: 6, count: 369
+integer: 214
+value: 8, count: 370
+integer: 215
+integer: 10
+value: 0, count: 372
+integer: 216
+integer: 12
+value: 2, count: 374
+integer: 217
+integer: 14
+value: 4, count: 376
+integer: 218
+integer: 16
+value: 6, count: 378
+integer: 219
+integer: 18
+value: 8, count: 380
+integer: 220
+value: 0, count: 381
+integer: 221
+value: 4, count: 382
+integer: 222
+value: 8, count: 383
+integer: 223
+integer: 12
+value: 2, count: 385
+integer: 224
+integer: 16
+value: 6, count: 387
+integer: 225
+integer: 20
+value: 0, count: 389
+integer: 226
+integer: 24
+value: 8, count: 391
+integer: 227
+integer: 28
+integer: 16
+value: 6, count: 394
+integer: 228
+integer: 32
+value: 6, count: 396
+integer: 229
+integer: 36
+integer: 18
+value: 8, count: 399
+integer: 230
+value: 0, count: 400
+integer: 231
+value: 6, count: 401
+integer: 232
+integer: 12
+value: 2, count: 403
+integer: 233
+integer: 18
+value: 8, count: 405
+integer: 234
+integer: 24
+value: 8, count: 407
+integer: 235
+integer: 30
+value: 0, count: 409
+integer: 236
+integer: 36
+integer: 18
+value: 8, count: 412
+integer: 237
+integer: 42
+value: 8, count: 414
+integer: 238
+integer: 48
+integer: 32
+value: 6, count: 417
+integer: 239
+integer: 54
+integer: 20
+value: 0, count: 420
+integer: 240
+value: 0, count: 421
+integer: 241
+value: 8, count: 422
+integer: 242
+integer: 16
+value: 6, count: 424
+integer: 243
+integer: 24
+value: 8, count: 426
+integer: 244
+integer: 32
+value: 6, count: 428
+integer: 245
+integer: 40
+value: 0, count: 430
+integer: 246
+integer: 48
+integer: 32
+value: 6, count: 433
+integer: 247
+integer: 56
+integer: 30
+value: 0, count: 436
+integer: 248
+integer: 64
+integer: 24
+value: 8, count: 439
+integer: 249
+integer: 72
+integer: 14
+value: 4, count: 442
+integer: 250
+value: 0, count: 443
+integer: 251
+integer: 10
+value: 0, count: 445
+integer: 252
+integer: 20
+value: 0, count: 447
+integer: 253
+integer: 30
+value: 0, count: 449
+integer: 254
+integer: 40
+value: 0, count: 451
+integer: 255
+integer: 50
+value: 0, count: 453
+integer: 256
+integer: 60
+value: 0, count: 455
+integer: 257
+integer: 70
+value: 0, count: 457
+integer: 258
+integer: 80
+value: 0, count: 459
+integer: 259
+integer: 90
+value: 0, count: 461
+integer: 260
+value: 0, count: 462
+integer: 261
+integer: 12
+value: 2, count: 464
+integer: 262
+integer: 24
+value: 8, count: 466
+integer: 263
+integer: 36
+integer: 18
+value: 8, count: 469
+integer: 264
+integer: 48
+integer: 32
+value: 6, count: 472
+integer: 265
+integer: 60
+value: 0, count: 474
+integer: 266
+integer: 72
+integer: 14
+value: 4, count: 477
+integer: 267
+integer: 84
+integer: 32
+value: 6, count: 480
+integer: 268
+integer: 96
+integer: 54
+integer: 20
+value: 0, count: 484
+integer: 269
+integer: 108
+value: 0, count: 486
+integer: 270
+value: 0, count: 487
+integer: 271
+integer: 14
+value: 4, count: 489
+integer: 272
+integer: 28
+integer: 16
+value: 6, count: 492
+integer: 273
+integer: 42
+value: 8, count: 494
+integer: 274
+integer: 56
+integer: 30
+value: 0, count: 497
+integer: 275
+integer: 70
+value: 0, count: 499
+integer: 276
+integer: 84
+integer: 32
+value: 6, count: 502
+integer: 277
+integer: 98
+integer: 72
+integer: 14
+value: 4, count: 506
+integer: 278
+integer: 112
+value: 2, count: 508
+integer: 279
+integer: 126
+integer: 12
+value: 2, count: 511
+integer: 280
+value: 0, count: 512
+integer: 281
+integer: 16
+value: 6, count: 514
+integer: 282
+integer: 32
+value: 6, count: 516
+integer: 283
+integer: 48
+integer: 32
+value: 6, count: 519
+integer: 284
+integer: 64
+integer: 24
+value: 8, count: 522
+integer: 285
+integer: 80
+value: 0, count: 524
+integer: 286
+integer: 96
+integer: 54
+integer: 20
+value: 0, count: 528
+integer: 287
+integer: 112
+value: 2, count: 530
+integer: 288
+integer: 128
+integer: 16
+value: 6, count: 533
+integer: 289
+integer: 144
+integer: 16
+value: 6, count: 536
+integer: 290
+value: 0, count: 537
+integer: 291
+integer: 18
+value: 8, count: 539
+integer: 292
+integer: 36
+integer: 18
+value: 8, count: 542
+integer: 293
+integer: 54
+integer: 20
+value: 0, count: 545
+integer: 294
+integer: 72
+integer: 14
+value: 4, count: 548
+integer: 295
+integer: 90
+value: 0, count: 550
+integer: 296
+integer: 108
+value: 0, count: 552
+integer: 297
+integer: 126
+integer: 12
+value: 2, count: 555
+integer: 298
+integer: 144
+integer: 16
+value: 6, count: 558
+integer: 299
+integer: 162
+integer: 12
+value: 2, count: 561
+integer: 300
+value: 0, count: 562
+integer: 301
+value: 0, count: 563
+integer: 302
+value: 0, count: 564
+integer: 303
+value: 0, count: 565
+integer: 304
+value: 0, count: 566
+integer: 305
+value: 0, count: 567
+integer: 306
+value: 0, count: 568
+integer: 307
+value: 0, count: 569
+integer: 308
+value: 0, count: 570
+integer: 309
+value: 0, count: 571
+integer: 310
+value: 0, count: 572
+integer: 311
+value: 3, count: 573
+integer: 312
+value: 6, count: 574
+integer: 313
+value: 9, count: 575
+integer: 314
+integer: 12
+value: 2, count: 577
+integer: 315
+integer: 15
+value: 5, count: 579
+integer: 316
+integer: 18
+value: 8, count: 581
+integer: 317
+integer: 21
+value: 2, count: 583
+integer: 318
+integer: 24
+value: 8, count: 585
+integer: 319
+integer: 27
+integer: 14
+value: 4, count: 588
+integer: 320
+value: 0, count: 589
+integer: 321
+value: 6, count: 590
+integer: 322
+integer: 12
+value: 2, count: 592
+integer: 323
+integer: 18
+value: 8, count: 594
+integer: 324
+integer: 24
+value: 8, count: 596
+integer: 325
+integer: 30
+value: 0, count: 598
+integer: 326
+integer: 36
+integer: 18
+value: 8, count: 601
+integer: 327
+integer: 42
+value: 8, count: 603
+integer: 328
+integer: 48
+integer: 32
+value: 6, count: 606
+integer: 329
+integer: 54
+integer: 20
+value: 0, count: 609
+integer: 330
+value: 0, count: 610
+integer: 331
+value: 9, count: 611
+integer: 332
+integer: 18
+value: 8, count: 613
+integer: 333
+integer: 27
+integer: 14
+value: 4, count: 616
+integer: 334
+integer: 36
+integer: 18
+value: 8, count: 619
+integer: 335
+integer: 45
+integer: 20
+value: 0, count: 622
+integer: 336
+integer: 54
+integer: 20
+value: 0, count: 625
+integer: 337
+integer: 63
+integer: 18
+value: 8, count: 628
+integer: 338
+integer: 72
+integer: 14
+value: 4, count: 631
+integer: 339
+integer: 81
+value: 8, count: 633
+integer: 340
+value: 0, count: 634
+integer: 341
+integer: 12
+value: 2, count: 636
+integer: 342
+integer: 24
+value: 8, count: 638
+integer: 343
+integer: 36
+integer: 18
+value: 8, count: 641
+integer: 344
+integer: 48
+integer: 32
+value: 6, count: 644
+integer: 345
+integer: 60
+value: 0, count: 646
+integer: 346
+integer: 72
+integer: 14
+value: 4, count: 649
+integer: 347
+integer: 84
+integer: 32
+value: 6, count: 652
+integer: 348
+integer: 96
+integer: 54
+integer: 20
+value: 0, count: 656
+integer: 349
+integer: 108
+value: 0, count: 658
+integer: 350
+value: 0, count: 659
+integer: 351
+integer: 15
+value: 5, count: 661
+integer: 352
+integer: 30
+value: 0, count: 663
+integer: 353
+integer: 45
+integer: 20
+value: 0, count: 666
+integer: 354
+integer: 60
+value: 0, count: 668
+integer: 355
+integer: 75
+integer: 35
+integer: 15
+value: 5, count: 672
+integer: 356
+integer: 90
+value: 0, count: 674
+integer: 357
+integer: 105
+value: 0, count: 676
+integer: 358
+integer: 120
+value: 0, count: 678
+integer: 359
+integer: 135
+integer: 15
+value: 5, count: 681
+integer: 360
+value: 0, count: 682
+integer: 361
+integer: 18
+value: 8, count: 684
+integer: 362
+integer: 36
+integer: 18
+value: 8, count: 687
+integer: 363
+integer: 54
+integer: 20
+value: 0, count: 690
+integer: 364
+integer: 72
+integer: 14
+value: 4, count: 693
+integer: 365
+integer: 90
+value: 0, count: 695
+integer: 366
+integer: 108
+value: 0, count: 697
+integer: 367
+integer: 126
+integer: 12
+value: 2, count: 700
+integer: 368
+integer: 144
+integer: 16
+value: 6, count: 703
+integer: 369
+integer: 162
+integer: 12
+value: 2, count: 706
+integer: 370
+value: 0, count: 707
+integer: 371
+integer: 21
+value: 2, count: 709
+integer: 372
+integer: 42
+value: 8, count: 711
+integer: 373
+integer: 63
+integer: 18
+value: 8, count: 714
+integer: 374
+integer: 84
+integer: 32
+value: 6, count: 717
+integer: 375
+integer: 105
+value: 0, count: 719
+integer: 376
+integer: 126
+integer: 12
+value: 2, count: 722
+integer: 377
+integer: 147
+integer: 28
+integer: 16
+value: 6, count: 726
+integer: 378
+integer: 168
+integer: 48
+integer: 32
+value: 6, count: 730
+integer: 379
+integer: 189
+integer: 72
+integer: 14
+value: 4, count: 734
+integer: 380
+value: 0, count: 735
+integer: 381
+integer: 24
+value: 8, count: 737
+integer: 382
+integer: 48
+integer: 32
+value: 6, count: 740
+integer: 383
+integer: 72
+integer: 14
+value: 4, count: 743
+integer: 384
+integer: 96
+integer: 54
+integer: 20
+value: 0, count: 747
+integer: 385
+integer: 120
+value: 0, count: 749
+integer: 386
+integer: 144
+integer: 16
+value: 6, count: 752
+integer: 387
+integer: 168
+integer: 48
+integer: 32
+value: 6, count: 756
+integer: 388
+integer: 192
+integer: 18
+value: 8, count: 759
+integer: 389
+integer: 216
+integer: 12
+value: 2, count: 762
+integer: 390
+value: 0, count: 763
+integer: 391
+integer: 27
+integer: 14
+value: 4, count: 766
+integer: 392
+integer: 54
+integer: 20
+value: 0, count: 769
+integer: 393
+integer: 81
+value: 8, count: 771
+integer: 394
+integer: 108
+value: 0, count: 773
+integer: 395
+integer: 135
+integer: 15
+value: 5, count: 776
+integer: 396
+integer: 162
+integer: 12
+value: 2, count: 779
+integer: 397
+integer: 189
+integer: 72
+integer: 14
+value: 4, count: 783
+integer: 398
+integer: 216
+integer: 12
+value: 2, count: 786
+integer: 399
+integer: 243
+integer: 24
+value: 8, count: 789
+integer: 400
+value: 0, count: 790
+integer: 401
+value: 0, count: 791
+integer: 402
+value: 0, count: 792
+integer: 403
+value: 0, count: 793
+integer: 404
+value: 0, count: 794
+integer: 405
+value: 0, count: 795
+integer: 406
+value: 0, count: 796
+integer: 407
+value: 0, count: 797
+integer: 408
+value: 0, count: 798
+integer: 409
+value: 0, count: 799
+integer: 410
+value: 0, count: 800
+integer: 411
+value: 4, count: 801
+integer: 412
+value: 8, count: 802
+integer: 413
+integer: 12
+value: 2, count: 804
+integer: 414
+integer: 16
+value: 6, count: 806
+integer: 415
+integer: 20
+value: 0, count: 808
+integer: 416
+integer: 24
+value: 8, count: 810
+integer: 417
+integer: 28
+integer: 16
+value: 6, count: 813
+integer: 418
+integer: 32
+value: 6, count: 815
+integer: 419
+integer: 36
+integer: 18
+value: 8, count: 818
+integer: 420
+value: 0, count: 819
+integer: 421
+value: 8, count: 820
+integer: 422
+integer: 16
+value: 6, count: 822
+integer: 423
+integer: 24
+value: 8, count: 824
+integer: 424
+integer: 32
+value: 6, count: 826
+integer: 425
+integer: 40
+value: 0, count: 828
+integer: 426
+integer: 48
+integer: 32
+value: 6, count: 831
+integer: 427
+integer: 56
+integer: 30
+value: 0, count: 834
+integer: 428
+integer: 64
+integer: 24
+value: 8, count: 837
+integer: 429
+integer: 72
+integer: 14
+value: 4, count: 840
+integer: 430
+value: 0, count: 841
+integer: 431
+integer: 12
+value: 2, count: 843
+integer: 432
+integer: 24
+value: 8, count: 845
+integer: 433
+integer: 36
+integer: 18
+value: 8, count: 848
+integer: 434
+integer: 48
+integer: 32
+value: 6, count: 851
+integer: 435
+integer: 60
+value: 0, count: 853
+integer: 436
+integer: 72
+integer: 14
+value: 4, count: 856
+integer: 437
+integer: 84
+integer: 32
+value: 6, count: 859
+integer: 438
+integer: 96
+integer: 54
+integer: 20
+value: 0, count: 863
+integer: 439
+integer: 108
+value: 0, count: 865
+integer: 440
+value: 0, count: 866
+integer: 441
+integer: 16
+value: 6, count: 868
+integer: 442
+integer: 32
+value: 6, count: 870
+integer: 443
+integer: 48
+integer: 32
+value: 6, count: 873
+integer: 444
+integer: 64
+integer: 24
+value: 8, count: 876
+integer: 445
+integer: 80
+value: 0, count: 878
+integer: 446
+integer: 96
+integer: 54
+integer: 20
+value: 0, count: 882
+integer: 447
+integer: 112
+value: 2, count: 884
+integer: 448
+integer: 128
+integer: 16
+value: 6, count: 887
+integer: 449
+integer: 144
+integer: 16
+value: 6, count: 890
+integer: 450
+value: 0, count: 891
+integer: 451
+integer: 20
+value: 0, count: 893
+integer: 452
+integer: 40
+value: 0, count: 895
+integer: 453
+integer: 60
+value: 0, count: 897
+integer: 454
+integer: 80
+value: 0, count: 899
+integer: 455
+integer: 100
+value: 0, count: 901
+integer: 456
+integer: 120
+value: 0, count: 903
+integer: 457
+integer: 140
+value: 0, count: 905
+integer: 458
+integer: 160
+value: 0, count: 907
+integer: 459
+integer: 180
+value: 0, count: 909
+integer: 460
+value: 0, count: 910
+integer: 461
+integer: 24
+value: 8, count: 912
+integer: 462
+integer: 48
+integer: 32
+value: 6, count: 915
+integer: 463
+integer: 72
+integer: 14
+value: 4, count: 918
+integer: 464
+integer: 96
+integer: 54
+integer: 20
+value: 0, count: 922
+integer: 465
+integer: 120
+value: 0, count: 924
+integer: 466
+integer: 144
+integer: 16
+value: 6, count: 927
+integer: 467
+integer: 168
+integer: 48
+integer: 32
+value: 6, count: 931
+integer: 468
+integer: 192
+integer: 18
+value: 8, count: 934
+integer: 469
+integer: 216
+integer: 12
+value: 2, count: 937
+integer: 470
+value: 0, count: 938
+integer: 471
+integer: 28
+integer: 16
+value: 6, count: 941
+integer: 472
+integer: 56
+integer: 30
+value: 0, count: 944
+integer: 473
+integer: 84
+integer: 32
+value: 6, count: 947
+integer: 474
+integer: 112
+value: 2, count: 949
+integer: 475
+integer: 140
+value: 0, count: 951
+integer: 476
+integer: 168
+integer: 48
+integer: 32
+value: 6, count: 955
+integer: 477
+integer: 196
+integer: 54
+integer: 20
+value: 0, count: 959
+integer: 478
+integer: 224
+integer: 16
+value: 6, count: 962
+integer: 479
+integer: 252
+integer: 20
+value: 0, count: 965
+integer: 480
+value: 0, count: 966
+integer: 481
+integer: 32
+value: 6, count: 968
+integer: 482
+integer: 64
+integer: 24
+value: 8, count: 971
+integer: 483
+integer: 96
+integer: 54
+integer: 20
+value: 0, count: 975
+integer: 484
+integer: 128
+integer: 16
+value: 6, count: 978
+integer: 485
+integer: 160
+value: 0, count: 980
+integer: 486
+integer: 192
+integer: 18
+value: 8, count: 983
+integer: 487
+integer: 224
+integer: 16
+value: 6, count: 986
+integer: 488
+integer: 256
+integer: 60
+value: 0, count: 989
+integer: 489
+integer: 288
+integer: 128
+integer: 16
+value: 6, count: 993
+integer: 490
+value: 0, count: 994
+integer: 491
+integer: 36
+integer: 18
+value: 8, count: 997
+integer: 492
+integer: 72
+integer: 14
+value: 4, count: 1000
+integer: 493
+integer: 108
+value: 0, count: 1002
+integer: 494
+integer: 144
+integer: 16
+value: 6, count: 1005
+integer: 495
+integer: 180
+value: 0, count: 1007
+integer: 496
+integer: 216
+integer: 12
+value: 2, count: 1010
+integer: 497
+integer: 252
+integer: 20
+value: 0, count: 1013
+integer: 498
+integer: 288
+integer: 128
+integer: 16
+value: 6, count: 1017
+integer: 499
+integer: 324
+integer: 24
+value: 8, count: 1020
+integer: 500
+value: 0, count: 1021
+integer: 501
+value: 0, count: 1022
+integer: 502
+value: 0, count: 1023
+integer: 503
+value: 0, count: 1024
+integer: 504
+value: 0, count: 1025
+integer: 505
+value: 0, count: 1026
+integer: 506
+value: 0, count: 1027
+integer: 507
+value: 0, count: 1028
+integer: 508
+value: 0, count: 1029
+integer: 509
+value: 0, count: 1030
+integer: 510
+value: 0, count: 1031
+integer: 511
+value: 5, count: 1032
+integer: 512
+integer: 10
+value: 0, count: 1034
+integer: 513
+integer: 15
+value: 5, count: 1036
+integer: 514
+integer: 20
+value: 0, count: 1038
+integer: 515
+integer: 25
+integer: 10
+value: 0, count: 1041
+integer: 516
+integer: 30
+value: 0, count: 1043
+integer: 517
+integer: 35
+integer: 15
+value: 5, count: 1046
+integer: 518
+integer: 40
+value: 0, count: 1048
+integer: 519
+integer: 45
+integer: 20
+value: 0, count: 1051
+integer: 520
+value: 0, count: 1052
+integer: 521
+integer: 10
+value: 0, count: 1054
+integer: 522
+integer: 20
+value: 0, count: 1056
+integer: 523
+integer: 30
+value: 0, count: 1058
+integer: 524
+integer: 40
+value: 0, count: 1060
+integer: 525
+integer: 50
+value: 0, count: 1062
+integer: 526
+integer: 60
+value: 0, count: 1064
+integer: 527
+integer: 70
+value: 0, count: 1066
+integer: 528
+integer: 80
+value: 0, count: 1068
+integer: 529
+integer: 90
+value: 0, count: 1070
+integer: 530
+value: 0, count: 1071
+integer: 531
+integer: 15
+value: 5, count: 1073
+integer: 532
+integer: 30
+value: 0, count: 1075
+integer: 533
+integer: 45
+integer: 20
+value: 0, count: 1078
+integer: 534
+integer: 60
+value: 0, count: 1080
+integer: 535
+integer: 75
+integer: 35
+integer: 15
+value: 5, count: 1084
+integer: 536
+integer: 90
+value: 0, count: 1086
+integer: 537
+integer: 105
+value: 0, count: 1088
+integer: 538
+integer: 120
+value: 0, count: 1090
+integer: 539
+integer: 135
+integer: 15
+value: 5, count: 1093
+integer: 540
+value: 0, count: 1094
+integer: 541
+integer: 20
+value: 0, count: 1096
+integer: 542
+integer: 40
+value: 0, count: 1098
+integer: 543
+integer: 60
+value: 0, count: 1100
+integer: 544
+integer: 80
+value: 0, count: 1102
+integer: 545
+integer: 100
+value: 0, count: 1104
+integer: 546
+integer: 120
+value: 0, count: 1106
+integer: 547
+integer: 140
+value: 0, count: 1108
+integer: 548
+integer: 160
+value: 0, count: 1110
+integer: 549
+integer: 180
+value: 0, count: 1112
+integer: 550
+value: 0, count: 1113
+integer: 551
+integer: 25
+integer: 10
+value: 0, count: 1116
+integer: 552
+integer: 50
+value: 0, count: 1118
+integer: 553
+integer: 75
+integer: 35
+integer: 15
+value: 5, count: 1122
+integer: 554
+integer: 100
+value: 0, count: 1124
+integer: 555
+integer: 125
+integer: 10
+value: 0, count: 1127
+integer: 556
+integer: 150
+value: 0, count: 1129
+integer: 557
+integer: 175
+integer: 35
+integer: 15
+value: 5, count: 1133
+integer: 558
+integer: 200
+value: 0, count: 1135
+integer: 559
+integer: 225
+integer: 20
+value: 0, count: 1138
+integer: 560
+value: 0, count: 1139
+integer: 561
+integer: 30
+value: 0, count: 1141
+integer: 562
+integer: 60
+value: 0, count: 1143
+integer: 563
+integer: 90
+value: 0, count: 1145
+integer: 564
+integer: 120
+value: 0, count: 1147
+integer: 565
+integer: 150
+value: 0, count: 1149
+integer: 566
+integer: 180
+value: 0, count: 1151
+integer: 567
+integer: 210
+value: 0, count: 1153
+integer: 568
+integer: 240
+value: 0, count: 1155
+integer: 569
+integer: 270
+value: 0, count: 1157
+integer: 570
+value: 0, count: 1158
+integer: 571
+integer: 35
+integer: 15
+value: 5, count: 1161
+integer: 572
+integer: 70
+value: 0, count: 1163
+integer: 573
+integer: 105
+value: 0, count: 1165
+integer: 574
+integer: 140
+value: 0, count: 1167
+integer: 575
+integer: 175
+integer: 35
+integer: 15
+value: 5, count: 1171
+integer: 576
+integer: 210
+value: 0, count: 1173
+integer: 577
+integer: 245
+integer: 40
+value: 0, count: 1176
+integer: 578
+integer: 280
+value: 0, count: 1178
+integer: 579
+integer: 315
+integer: 15
+value: 5, count: 1181
+integer: 580
+value: 0, count: 1182
+integer: 581
+integer: 40
+value: 0, count: 1184
+integer: 582
+integer: 80
+value: 0, count: 1186
+integer: 583
+integer: 120
+value: 0, count: 1188
+integer: 584
+integer: 160
+value: 0, count: 1190
+integer: 585
+integer: 200
+value: 0, count: 1192
+integer: 586
+integer: 240
+value: 0, count: 1194
+integer: 587
+integer: 280
+value: 0, count: 1196
+integer: 588
+integer: 320
+value: 0, count: 1198
+integer: 589
+integer: 360
+value: 0, count: 1200
+integer: 590
+value: 0, count: 1201
+integer: 591
+integer: 45
+integer: 20
+value: 0, count: 1204
+integer: 592
+integer: 90
+value: 0, count: 1206
+integer: 593
+integer: 135
+integer: 15
+value: 5, count: 1209
+integer: 594
+integer: 180
+value: 0, count: 1211
+integer: 595
+integer: 225
+integer: 20
+value: 0, count: 1214
+integer: 596
+integer: 270
+value: 0, count: 1216
+integer: 597
+integer: 315
+integer: 15
+value: 5, count: 1219
+integer: 598
+integer: 360
+value: 0, count: 1221
+integer: 599
+integer: 405
+value: 0, count: 1223
+integer: 600
+value: 0, count: 1224
+integer: 601
+value: 0, count: 1225
+integer: 602
+value: 0, count: 1226
+integer: 603
+value: 0, count: 1227
+integer: 604
+value: 0, count: 1228
+integer: 605
+value: 0, count: 1229
+integer: 606
+value: 0, count: 1230
+integer: 607
+value: 0, count: 1231
+integer: 608
+value: 0, count: 1232
+integer: 609
+value: 0, count: 1233
+integer: 610
+value: 0, count: 1234
+integer: 611
+value: 6, count: 1235
+integer: 612
+integer: 12
+value: 2, count: 1237
+integer: 613
+integer: 18
+value: 8, count: 1239
+integer: 614
+integer: 24
+value: 8, count: 1241
+integer: 615
+integer: 30
+value: 0, count: 1243
+integer: 616
+integer: 36
+integer: 18
+value: 8, count: 1246
+integer: 617
+integer: 42
+value: 8, count: 1248
+integer: 618
+integer: 48
+integer: 32
+value: 6, count: 1251
+integer: 619
+integer: 54
+integer: 20
+value: 0, count: 1254
+integer: 620
+value: 0, count: 1255
+integer: 621
+integer: 12
+value: 2, count: 1257
+integer: 622
+integer: 24
+value: 8, count: 1259
+integer: 623
+integer: 36
+integer: 18
+value: 8, count: 1262
+integer: 624
+integer: 48
+integer: 32
+value: 6, count: 1265
+integer: 625
+integer: 60
+value: 0, count: 1267
+integer: 626
+integer: 72
+integer: 14
+value: 4, count: 1270
+integer: 627
+integer: 84
+integer: 32
+value: 6, count: 1273
+integer: 628
+integer: 96
+integer: 54
+integer: 20
+value: 0, count: 1277
+integer: 629
+integer: 108
+value: 0, count: 1279
+integer: 630
+value: 0, count: 1280
+integer: 631
+integer: 18
+value: 8, count: 1282
+integer: 632
+integer: 36
+integer: 18
+value: 8, count: 1285
+integer: 633
+integer: 54
+integer: 20
+value: 0, count: 1288
+integer: 634
+integer: 72
+integer: 14
+value: 4, count: 1291
+integer: 635
+integer: 90
+value: 0, count: 1293
+integer: 636
+integer: 108
+value: 0, count: 1295
+integer: 637
+integer: 126
+integer: 12
+value: 2, count: 1298
+integer: 638
+integer: 144
+integer: 16
+value: 6, count: 1301
+integer: 639
+integer: 162
+integer: 12
+value: 2, count: 1304
+integer: 640
+value: 0, count: 1305
+integer: 641
+integer: 24
+value: 8, count: 1307
+integer: 642
+integer: 48
+integer: 32
+value: 6, count: 1310
+integer: 643
+integer: 72
+integer: 14
+value: 4, count: 1313
+integer: 644
+integer: 96
+integer: 54
+integer: 20
+value: 0, count: 1317
+integer: 645
+integer: 120
+value: 0, count: 1319
+integer: 646
+integer: 144
+integer: 16
+value: 6, count: 1322
+integer: 647
+integer: 168
+integer: 48
+integer: 32
+value: 6, count: 1326
+integer: 648
+integer: 192
+integer: 18
+value: 8, count: 1329
+integer: 649
+integer: 216
+integer: 12
+value: 2, count: 1332
+integer: 650
+value: 0, count: 1333
+integer: 651
+integer: 30
+value: 0, count: 1335
+integer: 652
+integer: 60
+value: 0, count: 1337
+integer: 653
+integer: 90
+value: 0, count: 1339
+integer: 654
+integer: 120
+value: 0, count: 1341
+integer: 655
+integer: 150
+value: 0, count: 1343
+integer: 656
+integer: 180
+value: 0, count: 1345
+integer: 657
+integer: 210
+value: 0, count: 1347
+integer: 658
+integer: 240
+value: 0, count: 1349
+integer: 659
+integer: 270
+value: 0, count: 1351
+integer: 660
+value: 0, count: 1352
+integer: 661
+integer: 36
+integer: 18
+value: 8, count: 1355
+integer: 662
+integer: 72
+integer: 14
+value: 4, count: 1358
+integer: 663
+integer: 108
+value: 0, count: 1360
+integer: 664
+integer: 144
+integer: 16
+value: 6, count: 1363
+integer: 665
+integer: 180
+value: 0, count: 1365
+integer: 666
+integer: 216
+integer: 12
+value: 2, count: 1368
+integer: 667
+integer: 252
+integer: 20
+value: 0, count: 1371
+integer: 668
+integer: 288
+integer: 128
+integer: 16
+value: 6, count: 1375
+integer: 669
+integer: 324
+integer: 24
+value: 8, count: 1378
+integer: 670
+value: 0, count: 1379
+integer: 671
+integer: 42
+value: 8, count: 1381
+integer: 672
+integer: 84
+integer: 32
+value: 6, count: 1384
+integer: 673
+integer: 126
+integer: 12
+value: 2, count: 1387
+integer: 674
+integer: 168
+integer: 48
+integer: 32
+value: 6, count: 1391
+integer: 675
+integer: 210
+value: 0, count: 1393
+integer: 676
+integer: 252
+integer: 20
+value: 0, count: 1396
+integer: 677
+integer: 294
+integer: 72
+integer: 14
+value: 4, count: 1400
+integer: 678
+integer: 336
+integer: 54
+integer: 20
+value: 0, count: 1404
+integer: 679
+integer: 378
+integer: 168
+integer: 48
+integer: 32
+value: 6, count: 1409
+integer: 680
+value: 0, count: 1410
+integer: 681
+integer: 48
+integer: 32
+value: 6, count: 1413
+integer: 682
+integer: 96
+integer: 54
+integer: 20
+value: 0, count: 1417
+integer: 683
+integer: 144
+integer: 16
+value: 6, count: 1420
+integer: 684
+integer: 192
+integer: 18
+value: 8, count: 1423
+integer: 685
+integer: 240
+value: 0, count: 1425
+integer: 686
+integer: 288
+integer: 128
+integer: 16
+value: 6, count: 1429
+integer: 687
+integer: 336
+integer: 54
+integer: 20
+value: 0, count: 1433
+integer: 688
+integer: 384
+integer: 96
+integer: 54
+integer: 20
+value: 0, count: 1438
+integer: 689
+integer: 432
+integer: 24
+value: 8, count: 1441
+integer: 690
+value: 0, count: 1442
+integer: 691
+integer: 54
+integer: 20
+value: 0, count: 1445
+integer: 692
+integer: 108
+value: 0, count: 1447
+integer: 693
+integer: 162
+integer: 12
+value: 2, count: 1450
+integer: 694
+integer: 216
+integer: 12
+value: 2, count: 1453
+integer: 695
+integer: 270
+value: 0, count: 1455
+integer: 696
+integer: 324
+integer: 24
+value: 8, count: 1458
+integer: 697
+integer: 378
+integer: 168
+integer: 48
+integer: 32
+value: 6, count: 1463
+integer: 698
+integer: 432
+integer: 24
+value: 8, count: 1466
+integer: 699
+integer: 486
+integer: 192
+integer: 18
+value: 8, count: 1470
+integer: 700
+value: 0, count: 1471
+integer: 701
+value: 0, count: 1472
+integer: 702
+value: 0, count: 1473
+integer: 703
+value: 0, count: 1474
+integer: 704
+value: 0, count: 1475
+integer: 705
+value: 0, count: 1476
+integer: 706
+value: 0, count: 1477
+integer: 707
+value: 0, count: 1478
+integer: 708
+value: 0, count: 1479
+integer: 709
+value: 0, count: 1480
+integer: 710
+value: 0, count: 1481
+integer: 711
+value: 7, count: 1482
+integer: 712
+integer: 14
+value: 4, count: 1484
+integer: 713
+integer: 21
+value: 2, count: 1486
+integer: 714
+integer: 28
+integer: 16
+value: 6, count: 1489
+integer: 715
+integer: 35
+integer: 15
+value: 5, count: 1492
+integer: 716
+integer: 42
+value: 8, count: 1494
+integer: 717
+integer: 49
+integer: 36
+integer: 18
+value: 8, count: 1498
+integer: 718
+integer: 56
+integer: 30
+value: 0, count: 1501
+integer: 719
+integer: 63
+integer: 18
+value: 8, count: 1504
+integer: 720
+value: 0, count: 1505
+integer: 721
+integer: 14
+value: 4, count: 1507
+integer: 722
+integer: 28
+integer: 16
+value: 6, count: 1510
+integer: 723
+integer: 42
+value: 8, count: 1512
+integer: 724
+integer: 56
+integer: 30
+value: 0, count: 1515
+integer: 725
+integer: 70
+value: 0, count: 1517
+integer: 726
+integer: 84
+integer: 32
+value: 6, count: 1520
+integer: 727
+integer: 98
+integer: 72
+integer: 14
+value: 4, count: 1524
+integer: 728
+integer: 112
+value: 2, count: 1526
+integer: 729
+integer: 126
+integer: 12
+value: 2, count: 1529
+integer: 730
+value: 0, count: 1530
+integer: 731
+integer: 21
+value: 2, count: 1532
+integer: 732
+integer: 42
+value: 8, count: 1534
+integer: 733
+integer: 63
+integer: 18
+value: 8, count: 1537
+integer: 734
+integer: 84
+integer: 32
+value: 6, count: 1540
+integer: 735
+integer: 105
+value: 0, count: 1542
+integer: 736
+integer: 126
+integer: 12
+value: 2, count: 1545
+integer: 737
+integer: 147
+integer: 28
+integer: 16
+value: 6, count: 1549
+integer: 738
+integer: 168
+integer: 48
+integer: 32
+value: 6, count: 1553
+integer: 739
+integer: 189
+integer: 72
+integer: 14
+value: 4, count: 1557
+integer: 740
+value: 0, count: 1558
+integer: 741
+integer: 28
+integer: 16
+value: 6, count: 1561
+integer: 742
+integer: 56
+integer: 30
+value: 0, count: 1564
+integer: 743
+integer: 84
+integer: 32
+value: 6, count: 1567
+integer: 744
+integer: 112
+value: 2, count: 1569
+integer: 745
+integer: 140
+value: 0, count: 1571
+integer: 746
+integer: 168
+integer: 48
+integer: 32
+value: 6, count: 1575
+integer: 747
+integer: 196
+integer: 54
+integer: 20
+value: 0, count: 1579
+integer: 748
+integer: 224
+integer: 16
+value: 6, count: 1582
+integer: 749
+integer: 252
+integer: 20
+value: 0, count: 1585
+integer: 750
+value: 0, count: 1586
+integer: 751
+integer: 35
+integer: 15
+value: 5, count: 1589
+integer: 752
+integer: 70
+value: 0, count: 1591
+integer: 753
+integer: 105
+value: 0, count: 1593
+integer: 754
+integer: 140
+value: 0, count: 1595
+integer: 755
+integer: 175
+integer: 35
+integer: 15
+value: 5, count: 1599
+integer: 756
+integer: 210
+value: 0, count: 1601
+integer: 757
+integer: 245
+integer: 40
+value: 0, count: 1604
+integer: 758
+integer: 280
+value: 0, count: 1606
+integer: 759
+integer: 315
+integer: 15
+value: 5, count: 1609
+integer: 760
+value: 0, count: 1610
+integer: 761
+integer: 42
+value: 8, count: 1612
+integer: 762
+integer: 84
+integer: 32
+value: 6, count: 1615
+integer: 763
+integer: 126
+integer: 12
+value: 2, count: 1618
+integer: 764
+integer: 168
+integer: 48
+integer: 32
+value: 6, count: 1622
+integer: 765
+integer: 210
+value: 0, count: 1624
+integer: 766
+integer: 252
+integer: 20
+value: 0, count: 1627
+integer: 767
+integer: 294
+integer: 72
+integer: 14
+value: 4, count: 1631
+integer: 768
+integer: 336
+integer: 54
+integer: 20
+value: 0, count: 1635
+integer: 769
+integer: 378
+integer: 168
+integer: 48
+integer: 32
+value: 6, count: 1640
+integer: 770
+value: 0, count: 1641
+integer: 771
+integer: 49
+integer: 36
+integer: 18
+value: 8, count: 1645
+integer: 772
+integer: 98
+integer: 72
+integer: 14
+value: 4, count: 1649
+integer: 773
+integer: 147
+integer: 28
+integer: 16
+value: 6, count: 1653
+integer: 774
+integer: 196
+integer: 54
+integer: 20
+value: 0, count: 1657
+integer: 775
+integer: 245
+integer: 40
+value: 0, count: 1660
+integer: 776
+integer: 294
+integer: 72
+integer: 14
+value: 4, count: 1664
+integer: 777
+integer: 343
+integer: 36
+integer: 18
+value: 8, count: 1668
+integer: 778
+integer: 392
+integer: 54
+integer: 20
+value: 0, count: 1672
+integer: 779
+integer: 441
+integer: 16
+value: 6, count: 1675
+integer: 780
+value: 0, count: 1676
+integer: 781
+integer: 56
+integer: 30
+value: 0, count: 1679
+integer: 782
+integer: 112
+value: 2, count: 1681
+integer: 783
+integer: 168
+integer: 48
+integer: 32
+value: 6, count: 1685
+integer: 784
+integer: 224
+integer: 16
+value: 6, count: 1688
+integer: 785
+integer: 280
+value: 0, count: 1690
+integer: 786
+integer: 336
+integer: 54
+integer: 20
+value: 0, count: 1694
+integer: 787
+integer: 392
+integer: 54
+integer: 20
+value: 0, count: 1698
+integer: 788
+integer: 448
+integer: 128
+integer: 16
+value: 6, count: 1702
+integer: 789
+integer: 504
+value: 0, count: 1704
+integer: 790
+value: 0, count: 1705
+integer: 791
+integer: 63
+integer: 18
+value: 8, count: 1708
+integer: 792
+integer: 126
+integer: 12
+value: 2, count: 1711
+integer: 793
+integer: 189
+integer: 72
+integer: 14
+value: 4, count: 1715
+integer: 794
+integer: 252
+integer: 20
+value: 0, count: 1718
+integer: 795
+integer: 315
+integer: 15
+value: 5, count: 1721
+integer: 796
+integer: 378
+integer: 168
+integer: 48
+integer: 32
+value: 6, count: 1726
+integer: 797
+integer: 441
+integer: 16
+value: 6, count: 1729
+integer: 798
+integer: 504
+value: 0, count: 1731
+integer: 799
+integer: 567
+integer: 210
+value: 0, count: 1734
+integer: 800
+value: 0, count: 1735
+integer: 801
+value: 0, count: 1736
+integer: 802
+value: 0, count: 1737
+integer: 803
+value: 0, count: 1738
+integer: 804
+value: 0, count: 1739
+integer: 805
+value: 0, count: 1740
+integer: 806
+value: 0, count: 1741
+integer: 807
+value: 0, count: 1742
+integer: 808
+value: 0, count: 1743
+integer: 809
+value: 0, count: 1744
+integer: 810
+value: 0, count: 1745
+integer: 811
+value: 8, count: 1746
+integer: 812
+integer: 16
+value: 6, count: 1748
+integer: 813
+integer: 24
+value: 8, count: 1750
+integer: 814
+integer: 32
+value: 6, count: 1752
+integer: 815
+integer: 40
+value: 0, count: 1754
+integer: 816
+integer: 48
+integer: 32
+value: 6, count: 1757
+integer: 817
+integer: 56
+integer: 30
+value: 0, count: 1760
+integer: 818
+integer: 64
+integer: 24
+value: 8, count: 1763
+integer: 819
+integer: 72
+integer: 14
+value: 4, count: 1766
+integer: 820
+value: 0, count: 1767
+integer: 821
+integer: 16
+value: 6, count: 1769
+integer: 822
+integer: 32
+value: 6, count: 1771
+integer: 823
+integer: 48
+integer: 32
+value: 6, count: 1774
+integer: 824
+integer: 64
+integer: 24
+value: 8, count: 1777
+integer: 825
+integer: 80
+value: 0, count: 1779
+integer: 826
+integer: 96
+integer: 54
+integer: 20
+value: 0, count: 1783
+integer: 827
+integer: 112
+value: 2, count: 1785
+integer: 828
+integer: 128
+integer: 16
+value: 6, count: 1788
+integer: 829
+integer: 144
+integer: 16
+value: 6, count: 1791
+integer: 830
+value: 0, count: 1792
+integer: 831
+integer: 24
+value: 8, count: 1794
+integer: 832
+integer: 48
+integer: 32
+value: 6, count: 1797
+integer: 833
+integer: 72
+integer: 14
+value: 4, count: 1800
+integer: 834
+integer: 96
+integer: 54
+integer: 20
+value: 0, count: 1804
+integer: 835
+integer: 120
+value: 0, count: 1806
+integer: 836
+integer: 144
+integer: 16
+value: 6, count: 1809
+integer: 837
+integer: 168
+integer: 48
+integer: 32
+value: 6, count: 1813
+integer: 838
+integer: 192
+integer: 18
+value: 8, count: 1816
+integer: 839
+integer: 216
+integer: 12
+value: 2, count: 1819
+integer: 840
+value: 0, count: 1820
+integer: 841
+integer: 32
+value: 6, count: 1822
+integer: 842
+integer: 64
+integer: 24
+value: 8, count: 1825
+integer: 843
+integer: 96
+integer: 54
+integer: 20
+value: 0, count: 1829
+integer: 844
+integer: 128
+integer: 16
+value: 6, count: 1832
+integer: 845
+integer: 160
+value: 0, count: 1834
+integer: 846
+integer: 192
+integer: 18
+value: 8, count: 1837
+integer: 847
+integer: 224
+integer: 16
+value: 6, count: 1840
+integer: 848
+integer: 256
+integer: 60
+value: 0, count: 1843
+integer: 849
+integer: 288
+integer: 128
+integer: 16
+value: 6, count: 1847
+integer: 850
+value: 0, count: 1848
+integer: 851
+integer: 40
+value: 0, count: 1850
+integer: 852
+integer: 80
+value: 0, count: 1852
+integer: 853
+integer: 120
+value: 0, count: 1854
+integer: 854
+integer: 160
+value: 0, count: 1856
+integer: 855
+integer: 200
+value: 0, count: 1858
+integer: 856
+integer: 240
+value: 0, count: 1860
+integer: 857
+integer: 280
+value: 0, count: 1862
+integer: 858
+integer: 320
+value: 0, count: 1864
+integer: 859
+integer: 360
+value: 0, count: 1866
+integer: 860
+value: 0, count: 1867
+integer: 861
+integer: 48
+integer: 32
+value: 6, count: 1870
+integer: 862
+integer: 96
+integer: 54
+integer: 20
+value: 0, count: 1874
+integer: 863
+integer: 144
+integer: 16
+value: 6, count: 1877
+integer: 864
+integer: 192
+integer: 18
+value: 8, count: 1880
+integer: 865
+integer: 240
+value: 0, count: 1882
+integer: 866
+integer: 288
+integer: 128
+integer: 16
+value: 6, count: 1886
+integer: 867
+integer: 336
+integer: 54
+integer: 20
+value: 0, count: 1890
+integer: 868
+integer: 384
+integer: 96
+integer: 54
+integer: 20
+value: 0, count: 1895
+integer: 869
+integer: 432
+integer: 24
+value: 8, count: 1898
+integer: 870
+value: 0, count: 1899
+integer: 871
+integer: 56
+integer: 30
+value: 0, count: 1902
+integer: 872
+integer: 112
+value: 2, count: 1904
+integer: 873
+integer: 168
+integer: 48
+integer: 32
+value: 6, count: 1908
+integer: 874
+integer: 224
+integer: 16
+value: 6, count: 1911
+integer: 875
+integer: 280
+value: 0, count: 1913
+integer: 876
+integer: 336
+integer: 54
+integer: 20
+value: 0, count: 1917
+integer: 877
+integer: 392
+integer: 54
+integer: 20
+value: 0, count: 1921
+integer: 878
+integer: 448
+integer: 128
+integer: 16
+value: 6, count: 1925
+integer: 879
+integer: 504
+value: 0, count: 1927
+integer: 880
+value: 0, count: 1928
+integer: 881
+integer: 64
+integer: 24
+value: 8, count: 1931
+integer: 882
+integer: 128
+integer: 16
+value: 6, count: 1934
+integer: 883
+integer: 192
+integer: 18
+value: 8, count: 1937
+integer: 884
+integer: 256
+integer: 60
+value: 0, count: 1940
+integer: 885
+integer: 320
+value: 0, count: 1942
+integer: 886
+integer: 384
+integer: 96
+integer: 54
+integer: 20
+value: 0, count: 1947
+integer: 887
+integer: 448
+integer: 128
+integer: 16
+value: 6, count: 1951
+integer: 888
+integer: 512
+integer: 10
+value: 0, count: 1954
+integer: 889
+integer: 576
+integer: 210
+value: 0, count: 1957
+integer: 890
+value: 0, count: 1958
+integer: 891
+integer: 72
+integer: 14
+value: 4, count: 1961
+integer: 892
+integer: 144
+integer: 16
+value: 6, count: 1964
+integer: 893
+integer: 216
+integer: 12
+value: 2, count: 1967
+integer: 894
+integer: 288
+integer: 128
+integer: 16
+value: 6, count: 1971
+integer: 895
+integer: 360
+value: 0, count: 1973
+integer: 896
+integer: 432
+integer: 24
+value: 8, count: 1976
+integer: 897
+integer: 504
+value: 0, count: 1978
+integer: 898
+integer: 576
+integer: 210
+value: 0, count: 1981
+integer: 899
+integer: 648
+integer: 192
+integer: 18
+value: 8, count: 1985
+integer: 900
+value: 0, count: 1986
+integer: 901
+value: 0, count: 1987
+integer: 902
+value: 0, count: 1988
+integer: 903
+value: 0, count: 1989
+integer: 904
+value: 0, count: 1990
+integer: 905
+value: 0, count: 1991
+integer: 906
+value: 0, count: 1992
+integer: 907
+value: 0, count: 1993
+integer: 908
+value: 0, count: 1994
+integer: 909
+value: 0, count: 1995
+integer: 910
+value: 0, count: 1996
+integer: 911
+value: 9, count: 1997
+integer: 912
+integer: 18
+value: 8, count: 1999
+integer: 913
+integer: 27
+integer: 14
+value: 4, count: 2002
+integer: 914
+integer: 36
+integer: 18
+value: 8, count: 2005
+integer: 915
+integer: 45
+integer: 20
+value: 0, count: 2008
+integer: 916
+integer: 54
+integer: 20
+value: 0, count: 2011
+integer: 917
+integer: 63
+integer: 18
+value: 8, count: 2014
+integer: 918
+integer: 72
+integer: 14
+value: 4, count: 2017
+integer: 919
+integer: 81
+value: 8, count: 2019
+integer: 920
+value: 0, count: 2020
+integer: 921
+integer: 18
+value: 8, count: 2022
+integer: 922
+integer: 36
+integer: 18
+value: 8, count: 2025
+integer: 923
+integer: 54
+integer: 20
+value: 0, count: 2028
+integer: 924
+integer: 72
+integer: 14
+value: 4, count: 2031
+integer: 925
+integer: 90
+value: 0, count: 2033
+integer: 926
+integer: 108
+value: 0, count: 2035
+integer: 927
+integer: 126
+integer: 12
+value: 2, count: 2038
+integer: 928
+integer: 144
+integer: 16
+value: 6, count: 2041
+integer: 929
+integer: 162
+integer: 12
+value: 2, count: 2044
+integer: 930
+value: 0, count: 2045
+integer: 931
+integer: 27
+integer: 14
+value: 4, count: 2048
+integer: 932
+integer: 54
+integer: 20
+value: 0, count: 2051
+integer: 933
+integer: 81
+value: 8, count: 2053
+integer: 934
+integer: 108
+value: 0, count: 2055
+integer: 935
+integer: 135
+integer: 15
+value: 5, count: 2058
+integer: 936
+integer: 162
+integer: 12
+value: 2, count: 2061
+integer: 937
+integer: 189
+integer: 72
+integer: 14
+value: 4, count: 2065
+integer: 938
+integer: 216
+integer: 12
+value: 2, count: 2068
+integer: 939
+integer: 243
+integer: 24
+value: 8, count: 2071
+integer: 940
+value: 0, count: 2072
+integer: 941
+integer: 36
+integer: 18
+value: 8, count: 2075
+integer: 942
+integer: 72
+integer: 14
+value: 4, count: 2078
+integer: 943
+integer: 108
+value: 0, count: 2080
+integer: 944
+integer: 144
+integer: 16
+value: 6, count: 2083
+integer: 945
+integer: 180
+value: 0, count: 2085
+integer: 946
+integer: 216
+integer: 12
+value: 2, count: 2088
+integer: 947
+integer: 252
+integer: 20
+value: 0, count: 2091
+integer: 948
+integer: 288
+integer: 128
+integer: 16
+value: 6, count: 2095
+integer: 949
+integer: 324
+integer: 24
+value: 8, count: 2098
+integer: 950
+value: 0, count: 2099
+integer: 951
+integer: 45
+integer: 20
+value: 0, count: 2102
+integer: 952
+integer: 90
+value: 0, count: 2104
+integer: 953
+integer: 135
+integer: 15
+value: 5, count: 2107
+integer: 954
+integer: 180
+value: 0, count: 2109
+integer: 955
+integer: 225
+integer: 20
+value: 0, count: 2112
+integer: 956
+integer: 270
+value: 0, count: 2114
+integer: 957
+integer: 315
+integer: 15
+value: 5, count: 2117
+integer: 958
+integer: 360
+value: 0, count: 2119
+integer: 959
+integer: 405
+value: 0, count: 2121
+integer: 960
+value: 0, count: 2122
+integer: 961
+integer: 54
+integer: 20
+value: 0, count: 2125
+integer: 962
+integer: 108
+value: 0, count: 2127
+integer: 963
+integer: 162
+integer: 12
+value: 2, count: 2130
+integer: 964
+integer: 216
+integer: 12
+value: 2, count: 2133
+integer: 965
+integer: 270
+value: 0, count: 2135
+integer: 966
+integer: 324
+integer: 24
+value: 8, count: 2138
+integer: 967
+integer: 378
+integer: 168
+integer: 48
+integer: 32
+value: 6, count: 2143
+integer: 968
+integer: 432
+integer: 24
+value: 8, count: 2146
+integer: 969
+integer: 486
+integer: 192
+integer: 18
+value: 8, count: 2150
+integer: 970
+value: 0, count: 2151
+integer: 971
+integer: 63
+integer: 18
+value: 8, count: 2154
+integer: 972
+integer: 126
+integer: 12
+value: 2, count: 2157
+integer: 973
+integer: 189
+integer: 72
+integer: 14
+value: 4, count: 2161
+integer: 974
+integer: 252
+integer: 20
+value: 0, count: 2164
+integer: 975
+integer: 315
+integer: 15
+value: 5, count: 2167
+integer: 976
+integer: 378
+integer: 168
+integer: 48
+integer: 32
+value: 6, count: 2172
+integer: 977
+integer: 441
+integer: 16
+value: 6, count: 2175
+integer: 978
+integer: 504
+value: 0, count: 2177
+integer: 979
+integer: 567
+integer: 210
+value: 0, count: 2180
+integer: 980
+value: 0, count: 2181
+integer: 981
+integer: 72
+integer: 14
+value: 4, count: 2184
+integer: 982
+integer: 144
+integer: 16
+value: 6, count: 2187
+integer: 983
+integer: 216
+integer: 12
+value: 2, count: 2190
+integer: 984
+integer: 288
+integer: 128
+integer: 16
+value: 6, count: 2194
+integer: 985
+integer: 360
+value: 0, count: 2196
+integer: 986
+integer: 432
+integer: 24
+value: 8, count: 2199
+integer: 987
+integer: 504
+value: 0, count: 2201
+integer: 988
+integer: 576
+integer: 210
+value: 0, count: 2204
+integer: 989
+integer: 648
+integer: 192
+integer: 18
+value: 8, count: 2208
+integer: 990
+value: 0, count: 2209
+integer: 991
+integer: 81
+value: 8, count: 2211
+integer: 992
+integer: 162
+integer: 12
+value: 2, count: 2214
+integer: 993
+integer: 243
+integer: 24
+value: 8, count: 2217
+integer: 994
+integer: 324
+integer: 24
+value: 8, count: 2220
+integer: 995
+integer: 405
+value: 0, count: 2222
+integer: 996
+integer: 486
+integer: 192
+integer: 18
+value: 8, count: 2226
+integer: 997
+integer: 567
+integer: 210
+value: 0, count: 2229
+integer: 998
+integer: 648
+integer: 192
+integer: 18
+value: 8, count: 2233
+integer: 999
+integer: 729
+integer: 126
+integer: 12
+value: 2, count: 2237
+integer: 1000
+value: 0, count: 2238
+integer: 1001
+value: 0, count: 2239
+integer: 1002
+value: 0, count: 2240
+integer: 1003
+value: 0, count: 2241
+integer: 1004
+value: 0, count: 2242
+integer: 1005
+value: 0, count: 2243
+integer: 1006
+value: 0, count: 2244
+integer: 1007
+value: 0, count: 2245
+integer: 1008
+value: 0, count: 2246
+integer: 1009
+value: 0, count: 2247
+integer: 1010
+value: 0, count: 2248
+integer: 1011
+value: 0, count: 2249
+integer: 1012
+value: 0, count: 2250
+integer: 1013
+value: 0, count: 2251
+integer: 1014
+value: 0, count: 2252
+integer: 1015
+value: 0, count: 2253
+integer: 1016
+value: 0, count: 2254
+integer: 1017
+value: 0, count: 2255
+integer: 1018
+value: 0, count: 2256
+integer: 1019
+value: 0, count: 2257
+integer: 1020
+value: 0, count: 2258
+integer: 1021
+value: 0, count: 2259
+integer: 1022
+value: 0, count: 2260
+integer: 1023
+value: 0, count: 2261
+integer: 1024
+value: 0, count: 2262
+integer: 1025
+value: 0, count: 2263
+integer: 1026
+value: 0, count: 2264
+integer: 1027
+value: 0, count: 2265
+integer: 1028
+value: 0, count: 2266
+integer: 1029
+value: 0, count: 2267
+integer: 1030
+value: 0, count: 2268
+integer: 1031
+value: 0, count: 2269
+integer: 1032
+value: 0, count: 2270
+integer: 1033
+value: 0, count: 2271
+integer: 1034
+value: 0, count: 2272
+integer: 1035
+value: 0, count: 2273
+integer: 1036
+value: 0, count: 2274
+integer: 1037
+value: 0, count: 2275
+integer: 1038
+value: 0, count: 2276
+integer: 1039
+value: 0, count: 2277
+integer: 1040
+value: 0, count: 2278
+integer: 1041
+value: 0, count: 2279
+integer: 1042
+value: 0, count: 2280
+integer: 1043
+value: 0, count: 2281
+integer: 1044
+value: 0, count: 2282
+integer: 1045
+value: 0, count: 2283
+integer: 1046
+value: 0, count: 2284
+integer: 1047
+value: 0, count: 2285
+integer: 1048
+value: 0, count: 2286
+integer: 1049
+value: 0, count: 2287
+integer: 1050
+value: 0, count: 2288
+integer: 1051
+value: 0, count: 2289
+integer: 1052
+value: 0, count: 2290
+integer: 1053
+value: 0, count: 2291
+integer: 1054
+value: 0, count: 2292
+integer: 1055
+value: 0, count: 2293
+integer: 1056
+value: 0, count: 2294
+integer: 1057
+value: 0, count: 2295
+integer: 1058
+value: 0, count: 2296
+integer: 1059
+value: 0, count: 2297
+integer: 1060
+value: 0, count: 2298
+integer: 1061
+value: 0, count: 2299
+integer: 1062
+value: 0, count: 2300
+integer: 1063
+value: 0, count: 2301
+integer: 1064
+value: 0, count: 2302
+integer: 1065
+value: 0, count: 2303
+integer: 1066
+value: 0, count: 2304
+integer: 1067
+value: 0, count: 2305
+integer: 1068
+value: 0, count: 2306
+integer: 1069
+value: 0, count: 2307
+integer: 1070
+value: 0, count: 2308
+integer: 1071
+value: 0, count: 2309
+integer: 1072
+value: 0, count: 2310
+integer: 1073
+value: 0, count: 2311
+integer: 1074
+value: 0, count: 2312
+integer: 1075
+value: 0, count: 2313
+integer: 1076
+value: 0, count: 2314
+integer: 1077
+value: 0, count: 2315
+integer: 1078
+value: 0, count: 2316
+integer: 1079
+value: 0, count: 2317
+integer: 1080
+value: 0, count: 2318
+integer: 1081
+value: 0, count: 2319
+integer: 1082
+value: 0, count: 2320
+integer: 1083
+value: 0, count: 2321
+integer: 1084
+value: 0, count: 2322
+integer: 1085
+value: 0, count: 2323
+integer: 1086
+value: 0, count: 2324
+integer: 1087
+value: 0, count: 2325
+integer: 1088
+value: 0, count: 2326
+integer: 1089
+value: 0, count: 2327
+integer: 1090
+value: 0, count: 2328
+integer: 1091
+value: 0, count: 2329
+integer: 1092
+value: 0, count: 2330
+integer: 1093
+value: 0, count: 2331
+integer: 1094
+value: 0, count: 2332
+integer: 1095
+value: 0, count: 2333
+integer: 1096
+value: 0, count: 2334
+integer: 1097
+value: 0, count: 2335
+integer: 1098
+value: 0, count: 2336
+integer: 1099
+value: 0, count: 2337
+integer: 1100
+value: 0, count: 2338
+integer: 1101
+value: 0, count: 2339
+integer: 1102
+value: 0, count: 2340
+integer: 1103
+value: 0, count: 2341
+integer: 1104
+value: 0, count: 2342
+integer: 1105
+value: 0, count: 2343
+integer: 1106
+value: 0, count: 2344
+integer: 1107
+value: 0, count: 2345
+integer: 1108
+value: 0, count: 2346
+integer: 1109
+value: 0, count: 2347
+integer: 1110
+value: 0, count: 2348
