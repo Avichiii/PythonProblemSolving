@@ -1,4 +1,5 @@
 # Not my Algo
+# This Function returns the elements
 def sum_pairs(lst, s):
     cache = set()
     for i in lst:
@@ -6,4 +7,6 @@ def sum_pairs(lst, s):
             return [s - i, i]
         cache.add(i)
 
-print(sum_pairs([11, 3, 7, 5], 10))
+print(sum_pairs([2,7,11,15], 9))
+
+

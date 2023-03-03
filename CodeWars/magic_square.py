@@ -41,7 +41,7 @@ def magic_square(n):
 
 
     
-print(magic_square(5))
+print(magic_square(3))
        
     
 
