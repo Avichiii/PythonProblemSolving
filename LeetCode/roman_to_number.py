@@ -15,7 +15,7 @@ def romanToInt(roman_numer):
     for i in roman_numer:
         if i in roman.keys():
             unique.append(roman[i])
-    print(unique)
+
     checker = []
     sum_ = 0
     for j in unique:
