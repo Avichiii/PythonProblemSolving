@@ -1,7 +1,7 @@
 # .ini
 desktop.ini
 # Unsolved
-Persistent_Bugger.py
+count_smileys.py
 reversedParanthesis.py
 peak_pos.py
 String_to_numbers.py
@@ -10,3 +10,4 @@ class.py
 Class_exam.py
 par_remove.py
 the_baker.py
+extract_domain.py
