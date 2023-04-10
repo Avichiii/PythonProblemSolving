@@ -78,7 +78,7 @@ def year_diff(Y1, Y2):
 # year_1 = list(map(int, input('Enter the First Year <: ').split()))
 # year_2 = list(map(int, input('Enter the Difference Year <: ').split()))
 
-print(year_diff([28, 10, 1991], [16, 11, 2020]))
+print(year_diff([10, 4, 2023], [7, 9, 2023]))
 
 
 
