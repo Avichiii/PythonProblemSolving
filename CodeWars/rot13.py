@@ -18,4 +18,4 @@ def rot13(message):
     return rot13_message
 
 
-print(rot13('Test'))
+print(rot13('DIAMOND'))
